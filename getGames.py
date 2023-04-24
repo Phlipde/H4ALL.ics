@@ -12,6 +12,7 @@ json_data = dirtyjson.loads(response.content)
 
 if json_data[0]["lvTypeLabelStr"]== "/ [error]":
     print("Error: Wrong TeamID")
+    input("Press ENTER to exit")
     exit()
 
 games = []
