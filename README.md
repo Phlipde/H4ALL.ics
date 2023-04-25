@@ -5,7 +5,10 @@ This script will create a .ics file with all the games of a team from handball4a
 
 > ⚠ Make sure Python 3.x is installed on your machine.
 
-1. Install the required libraries: `requests`, `dirtyjson`, `arrow`, and `ics`. You can install them using pip with the command `pip install requests dirtyjson arrow ics`.
+1. Install the required libraries: `requests`, `dirtyjson`, `arrow`, and `ics`. You can install them using pip with the command:
+     ```shell 
+     pip install requests dirtyjson arrow ics
+     ```
 
 2. Obtain the Team ID from the Handball4all website. Visit www.handball4all.de and navigate to the site that shows the team's games. From the URL, you can see the corresponding ID:
      `tId` - Team ID (e.g. 720111)
