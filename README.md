@@ -1,5 +1,5 @@
 # H4ALL.ics
-This script will create a .ics file with all the games of a team from handball4all.de
+This script will create a .ics file with all the games of a team from www.handball4all.de
 ***
 #  Usage
 
