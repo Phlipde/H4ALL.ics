@@ -3,7 +3,7 @@ This script will create a .ics file with all the games of a team from handball4a
 ***
 #  Usage
 
-> ⚠ Make sure Pyhton 3.x is installed on your machine.
+> ⚠ Make sure Python 3.x is installed on your machine.
 
 1. Install the required libraries: `requests`, `dirtyjson`, `arrow`, and `ics`. You can install them using pip with the command `pip install requests dirtyjson arrow ics`.
 
